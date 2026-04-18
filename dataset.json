@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Greeley (Metro), Colorado, covering Greeley. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Greeley (Metro), Colorado, US",
+  "export_job_id": "d03be9c1-36a5-4f60-baaa-0c83a33056d2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 297705,
+  "location_name": "Greeley, CO",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-greeley-metro-colorado-us-sample-297705",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/297705/beamstation_297705_restaurants-us-greeleyco_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 48,
+  "sample_sha256": "9feafb95cc2623b28f0b9751aaa22c36efe27e5640499102ae11006288c9bb49",
+  "sample_size_bytes": 190283,
+  "total_records": 480,
+  "updated_at": "2026-04-14T19:12:05.209282+00:00"
+}
