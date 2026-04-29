@@ -1,6 +1,6 @@
 # All Restaurants in Greeley (Metro), Colorado, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 49 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `297705` |
 | Location | Greeley, CO |
 | Category | Restaurants |
-| Full dataset size | 309 records |
-| Free sample size | 30 records (9.71%) |
-| Last export | 2026-04-21T21:10:26.305155+00:00 |
+| Full dataset size | 494 records |
+| Free sample size | 49 records (9.92%) |
+| Last export | 2026-04-28T23:03:50.203316+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greeley-metro-colorado-us-sample-297705/releases/download/sample-latest/beamstation_297705_restaurants-us-greeleyco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
